@@ -1,2 +1,2 @@
 # codewars
-js codewars
+js codewars solutions
